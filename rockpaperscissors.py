@@ -24,7 +24,6 @@ while True:
         break
 
     else:
-
         if user not in hands:
             print("ERROR")
 
